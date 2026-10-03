@@ -100,7 +100,7 @@ export default function App() {
       
       
 
-      const response = await fetch('http://127.0.0.1:8000/api/cook', {
+      const response = await fetch('https://hacktoberfest26.onrender.com/api/cook', {
         method: 'POST',
         body: formData,
       });
