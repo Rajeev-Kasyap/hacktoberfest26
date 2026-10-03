@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hostel Chef</string>
+    <string name="title_activity_main">Hostel Chef</string>
+    <string name="package_name">com.rajeev.hostelchef</string>
+    <string name="custom_url_scheme">com.rajeev.hostelchef</string>
+</resources>
